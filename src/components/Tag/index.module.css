@@ -1,0 +1,70 @@
+.tag {
+    width: 1082px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 19px;
+}
+
+.header h1 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.header h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.header h2 span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    color: rgba(105, 105, 116, 1);
+}
+
+.tag hr {
+    border: 1px solid rgba(226, 226, 234, 1)
+}
+
+.texts {
+    margin-top: 19px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    padding-right: 10px;
+    border-right: 1px solid rgba(226, 226, 234, 1);
+}
+
+.text h2 {
+    display: flex;
+    align-items: center;
+    width: 230px;
+    border-bottom: 1px solid rgba(226, 226, 234, 1);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    color: rgba(68, 68, 79, 1);
+    padding-bottom: 8px;
+    margin-top: 8px;
+}
+
+.text h2 img {
+    margin-right: 10px;
+}
+
+.text h2 span {
+    margin-left: 87px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: rgba(68, 68, 79, 1);
+}

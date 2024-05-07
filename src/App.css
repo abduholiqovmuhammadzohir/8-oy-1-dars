@@ -1,0 +1,90 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container{
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.profile{
+  display: flex;
+  align-items: center
+}
+
+.profile img{
+  margin-right: 10px;
+}
+
+.profile .select{
+  margin-top:-12px;
+}
+
+.medium{
+  display: flex;
+}
+
+.card img {
+  margin-right: 17px;
+  margin-top: -23px;
+}
+
+.card {
+  display: flex;
+}
+
+.card p{
+font-size: 12px;
+font-weight: 500;
+line-height: 18px;
+margin-bottom: 8px;
+}
+
+.card h4{
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+margin-bottom: 8px;
+color: rgba(0, 98, 255, 1);
+}
+
+.card h5{
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+color: rgba(68, 68, 79, 1);
+}
+
+.cards{
+  display: flex;
+  margin-bottom: 100px;
+  width: 1082px;
+  justify-content: space-between;
+}
+
+.apexchart{
+  margin-top: 48px;
+  width: 1082px;
+  margin-bottom: 41px;
+}
+
+.medium .left {
+  margin-left: 70px;
+  width: 294px;
+}
+
+.visitor{
+  margin-bottom: 36px;
+}

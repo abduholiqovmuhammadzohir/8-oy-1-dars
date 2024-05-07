@@ -1,0 +1,26 @@
+.sms h1 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    letter-spacing: 0.10000000149011612px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid rgba(226, 226, 234, 1);
+    padding-bottom: 16px;
+}
+
+.sms h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid rgba(226, 226, 234, 1);
+    padding-bottom: 16px;
+}
+
+.sms h2 span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    letter-spacing: 0.10000000149011612px;
+}
